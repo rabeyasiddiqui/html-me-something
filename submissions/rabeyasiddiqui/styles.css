@@ -1,0 +1,48 @@
+body{
+  background-color : #f0f8ff;
+}
+#ExampleID1 {
+    background-color:#f0f8ff ;
+}
+div{
+    padding-top: .01 cm;
+}
+li
+{
+
+  font-family : Helvetica;
+  text-align : left ;
+}
+h1
+{
+  text-align :center;
+  color : blue ;
+}
+h1 {
+    margin: 0 0 50px 0;
+}
+
+table
+{
+  border-collapse:collapse ;
+}
+th{
+  background-color: #5f9ea0;
+  color : white ;
+}
+table, td, th{
+  border : 2px solid black ;
+}
+a{
+  color :blue;
+}
+.cpuntry{
+  color: #A36705;
+}
+footer {
+	text-align: center;
+}
+
+footer p {
+	display: inline-block;
+}
